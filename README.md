@@ -3,6 +3,8 @@ Connect an RGBs (Red, Green, Blue, CSync) signal over BNC and Stereo Audio signa
 
 Typical use case would be with a Extron Crosspoint or daisy-chain from the output of a PVM, TTL CSYNC only (jumper included for 75 ohm CSYNC). Connections are turned 90° so they are facing backwards, creating a simple and clean cable management path in your entertainment system.
 
+Fully assembled and QC tested BNCtoSCART adapters can be [purchased here](https://kytor.com/store/product/bnctoscart/).
+
 - Input: 4x [BNC] and 2x [RCA]
 - Outputs: 1x [SCART]
 

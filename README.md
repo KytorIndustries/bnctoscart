@@ -19,6 +19,15 @@ Typical use case would be with a Extron Crosspoint or daisy-chain from the outpu
 - [2x M3x10 Screws](https://amzn.to/43MXFzS)
 - [RetroTINK-5X Pro](https://www.retrotink.com/product-page/5x-pro)
 
+## Assembly
+1. Solder BNC, RCA and resistor components in place.
+2. The flat end SCART connector should be aligned with the board edge, ensure it is properly square and aligned and solder in place.
+3. The jumper must only be closed for 75 ohm CSYNC only, otherwise damage to the RetroTINK-5X Pro may result. Do not close this jumper unless you are absolutely certain of 75 ohm CSYNC.
+4. Clean the board with isopropyl alchohol, then ultrasonic cleaning is recommended.
+5. Apply hot glue to fill the void between the bottom of the RCA connector and the top of the PCB.
+6. Secure the PCB assembly to the shell with (2) of M3x6 screws.
+7. Screw the shell halves together with (2) of M3x10 screws.
+
 ## PCB Revision History
 - Ver 1.1 - First production version
 - Ver 1.2 - Added sync jumper and screw indication

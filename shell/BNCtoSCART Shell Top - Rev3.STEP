@@ -3,11 +3,11 @@ HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
 FILE_NAME ('BNCtoSCART Shell Top - Rev3.STEP',
-    '2025-03-15T11:44:40',
+    '2025-03-15',
     ( '' ),
     ( '' ),
-    'SwSTEP 2.0',
-    'SolidWorks 2020',
+    '',
+    '',
     '' );
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
